@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #f2f2f2;
+    text-decoration: none;
+} 
+
+h1 {
+    margin: 40px 40px;
+} 
+
+h3 {
+    margin: 15px 0 0 25px;
+    text-align: left;
+}
+
+h4 {
+  margin: 10px 20px;
+}
+
+div {
+    
+    width: 1050px;
+    margin: 0 auto;
+}
+
+header {
+    width: 300px;
+    height: 509px;
+    background-color: red;
+    float: left;
+    margin: 0 0 0px 0px;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    
+    width: 370px;
+    
+}
+
+main {
+    width: 600px;
+    height: 1200px ;
+    background-color: #f2f2f2;
+    padding: 80px 40px 40px;
+    margin: 0 auto;
+    float: right;
+    color: #3b3bc9;
+}
+
+.main-header {
+    margin: 0px 0 15px 0;
+    font-size: 26px;
+    font-weight: 600;   
+}
+
+.main-text {
+    margin: auto 20px 0 0;
+    vertical-align: middle;
+    text-align: left;
+}
+
+ul {
+   line-height: 1.2;
+    text-align: left;
+    padding: auto 0 0 25px ;
+    vertical-align: middle;
+}
+
+.container {
+    font-size: 19px;
+
+    text-align:left;
+    margin: 25px 0 20px;
+    
+    width: 280px;
+    
+    float: left;
+}
+
+.container-table {
+    font-size: 19px;
+    text-align:justify;
+    margin: 10px 0;
+    
+    width: 600px;
+    display: inline-block;
+}
+
+td {
+    margin: auto;
+    vertical-align:top;
+}
+
+.title-work {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+
+
+.info-work {
+    margin: 12px 10px 0 0;
+    text-align: left;
+    width: 250px;
+    border-right:#3b3bc9 1px;
+    line-height: 1.5;
+}
+
+
+.vl {
+    border-left: 2px solid #3b3bc9;
+    height: 20px;
+    display: inline;
+    left: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    top: 0;
+}
+
+.name {
+    font-family: Tahoma;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: auto;
+}
+
+.work {
+    font-size: 32px;
+    font-family: Tahoma;
+    margin: 20px 0 30px;
+    
+}
+
+hr {    
+    width: 595px;
+        
+}
+
+footer {
+    width: 330px;
+    height: 755px;
+    background-color: #3b3bc9;
+    float: left;
+    padding: 30px 20px;
+    margin: 0 ;
+    
+    text-align: justify;
+    color: white;
+}
+
+.contacts-text {
+
+    margin: auto 0;
+    text-align: left  ;
+    padding:20px 0 20px;
+    line-height: 1.7;
+    font-size: 18px;
+    
+}
+
+.contacts {
+    margin: 30px;
+    width: 300px;
+}
+
+.title {
+    margin: auto;
+   
+    text-align: left;
+}
